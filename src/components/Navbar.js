@@ -13,7 +13,7 @@ const Navbar = () => {
 
     return (
         <div>
-            <header className="flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full bg-gray-200 text-sm py-6 dark:bg-gray-50 border-b-[1px] border-gray-300">
+            <header className="flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full bg-gray-200 text-sm py-6 dark:bg-gray-800 border-b-[1px] border-gray-300">
                 <nav className="w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between" aria-label="Global">
                     <div className="flex items-center justify-between">
                         <Link className="flex-none text-4xl font-bold dark:text-gray-800 lg:hidden sm:block" href="#"><span className='text-sky-600'>tri</span><span className='text-amber-500'>va</span><span className='text-rose-600'>go</span></Link>
